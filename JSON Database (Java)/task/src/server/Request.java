@@ -1,4 +1,4 @@
-package client;
+package server;
 
 import com.beust.jcommander.Parameter;
 import com.google.gson.JsonObject;
